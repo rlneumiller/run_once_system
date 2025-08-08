@@ -1,6 +1,6 @@
 # run_once_system
 
-A Bevy application that demonstrates a "run once" system.
+A Bevy application that demonstrates a basic "run once" system.
 
 ## Getting Started
 
